@@ -1,0 +1,16 @@
+com\imhasan\beingjava\messenger\api\model\Message.class
+com\imhasan\beingjava\messenger\api\resources\beans\MessageFilterBean.class
+com\imhasan\beingjava\messenger\api\model\ErrorMessage.class
+com\imhasan\beingjava\messenger\api\model\Comment.class
+com\imhasan\beingjava\messenger\api\resources\MessengerResource.class
+com\imhasan\beingjava\messenger\api\model\Profile.class
+com\imhasan\beingjava\messenger\api\service\MessageService.class
+com\imhasan\beingjava\messenger\api\service\ProfileService.class
+com\imhasan\beingjava\messenger\api\exception\DataNotFoundExceptionMapper.class
+com\imhasan\beingjava\messenger\api\exception\DataNotFoundException.class
+com\imhasan\beingjava\messenger\api\resources\InjectDemoResource.class
+com\imhasan\beingjava\messenger\api\resources\CommentResource.class
+com\imhasan\beingjava\messenger\api\resources\ProfileResource.class
+com\imhasan\beingjava\messenger\api\exception\GenericExceptionMapper.class
+com\imhasan\beingjava\messenger\api\database\DatabaseClass.class
+com\imhasan\beingjava\messenger\api\service\CommentService.class
